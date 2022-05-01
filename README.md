@@ -1,2 +1,2 @@
 # HtmlPractice
-A practice assignment for HCI class includes some basic html. 
+A practice website for HCI class includes some basic HTML, CSS and Javascript. 
